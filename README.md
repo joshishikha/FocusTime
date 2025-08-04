@@ -13,5 +13,5 @@ Personalization (with colors and zen music)
 
 ## Tech Stack 
 Web based - HTML, CSS, Javascript
-Feel free to reach me if you would like to get started with similar, easy to use, fun coding projects - @joshishikha2@gmail.com
+Feel free to reach me if you would like to get started with similar, easy to use, fun coding projects.
 
